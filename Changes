@@ -1,0 +1,6 @@
+Revision history for Perl extension Plack::Middleware::Pod::Site.
+
+0.01  Fri Aug 19 01:22:40 2011
+	- original version; created by h2xs 1.23 with options
+		-AX -n Plack::Middleware::Pod::Site
+
